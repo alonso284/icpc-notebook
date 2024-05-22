@@ -1,6 +1,3 @@
-// Alonso Huerta Escalante
-// Link 
-
 #include <iostream>
 #include <vector>
 #include <algorithm>
