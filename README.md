@@ -1,16 +1,15 @@
-# Lancheros de Balzapote (ITESM MTY)
+# Lancheros de Balzapote (ITESM MTY) ICPC ACM Syllabus
 
-- Sorting and Searching	
-- Dynamic Programming
-- Graph Algorithms
-- Range Queries
-    - Fenwick Tree
-    - Sqrt Decomposition
-    - Segment Tree
-    - Treap (Cartesian tree)
-    - Sqrt Tree
-- Tree Algorithms
-- Mathematics
-- String Algorithms
-- Geometry
-- Game Theory
+## Sorting and Searching
+## Dynamic Programming
+## Graph Algorithms
+## Range Queries
+## Tree Algorithms
+## Mathematics
+## String Algorithms
+## Geometry
+## Game Theory
+
+- [CSES Problem Set](https://cses.fi/problemset/)
+- [Competitive Programmer's Handbook](https://cses.fi/book.html)
+- [Competitive Programming 4](https://cpbook.net/)
